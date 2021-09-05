@@ -25,4 +25,4 @@ _ _ _ _ _
 
 
 
-Lets go to AboutMe.md <https://github.com/DasariSwapna/assignment2-dasari#readme>
+Click here! - Let us go to AboutMe.md <https://github.com/DasariSwapna/assignment2-dasari/blob/main/AboutMe.md>
