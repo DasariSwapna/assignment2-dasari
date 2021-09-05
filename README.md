@@ -14,18 +14,12 @@ _ _ _ _ _ _
         </ul>
     </li>
 </ul>
-# unOrdered List in Markdown
-<ul>
-    <li>One</li>
-    <li>Two</li>
-    <li>Three
-        <ul>
-            <li>Nested One</li>
-            <li>Nested Two</li>
-        </ul>
-    </li>
-</ul>
-
+ unOrdered List in Markdown
++ One
++ Two
++ Three
+    - Nested One
+    - Nested Two
 
 
 
