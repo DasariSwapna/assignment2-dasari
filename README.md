@@ -43,14 +43,4 @@ Food item | Location | expected amount|
 
   _ _ _ _ _
  # code fencing
- ```
-function DeepThought(task) {
-    this.task = task;
-}
-DeepThought.prototype.answer = function () {
-    switch (this.task) {
-        case "life, universe, and everything": return 42;
-        default: throw "not implemented";
-    }
-}
-```
+```def sumIt(n):x = 0for x in range(0,n):sum += x return sum```
