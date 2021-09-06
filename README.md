@@ -26,3 +26,12 @@ _ _ _ _ _
 
 
 Click here! - Let us go to AboutMe.md <https://github.com/DasariSwapna/assignment2-dasari/blob/main/AboutMe.md>
+
+ _ _ _ _ _
+
+# Table of food items
+Food item | Location | expected amount|
+| ---     | ---      | ---            |               
+| grilled chicken   | outlets  | 10$ |
+| chicken nugets| chick fille | 6$ |
+| coffee | starbucks | 2$ |
