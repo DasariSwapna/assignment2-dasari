@@ -35,3 +35,10 @@ Food item | Location | expected amount|
 | grilled chicken   | outlets  | 10$ |
 | chicken nugets| chick fille | 6$ |
 | coffee | starbucks | 2$ |
+
+ _ _ _ _ _
+ # pithy quotes
+ >Success is a journey not a destination - *ben sweetland*
+ >The key to success is failure - *micheal jordan*
+
+ 
