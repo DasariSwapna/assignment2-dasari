@@ -41,4 +41,16 @@ Food item | Location | expected amount|
  >Success is a journey not a destination - *ben sweetland*
  >,The key to success is failure - *micheal jordan*s
 
- 
+  _ _ _ _ _
+ # code fencing
+ ```
+function DeepThought(task) {
+    this.task = task;
+}
+DeepThought.prototype.answer = function () {
+    switch (this.task) {
+        case "life, universe, and everything": return 42;
+        default: throw "not implemented";
+    }
+}
+```
