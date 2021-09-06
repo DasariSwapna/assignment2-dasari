@@ -39,6 +39,6 @@ Food item | Location | expected amount|
  _ _ _ _ _
  # pithy quotes
  >Success is a journey not a destination - *ben sweetland*
- >The key to success is failure - *micheal jordan*
+ >,The key to success is failure - *micheal jordan*s
 
  
