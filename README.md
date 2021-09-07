@@ -35,6 +35,8 @@ Food item | Location | expected amount|
 | grilled chicken   | outlets  | 10$ |
 | chicken nugets| chick fille | 6$ |
 | coffee | starbucks | 2$ |
+| Grilled Sandwich | zen | 9$ |
+| pizza | domino's | 12$ |
 
  _ _ _ _ _
  # pithy quotes
