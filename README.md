@@ -45,6 +45,11 @@ Food item | Location | expected amount|
 
   _ _ _ _ _
  # code fencing
+
+# The code written below is related to javascript and the statement console will print the output whatever  written inside it.It is kind of printf statement in C language.
+
+Click here! - lets go to the Link of description <https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks>
+
 ```
 function test() {
   console.log("notice the blank line before this function?");
